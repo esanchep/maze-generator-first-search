@@ -1,0 +1,1 @@
+# maze-generator-first-search
